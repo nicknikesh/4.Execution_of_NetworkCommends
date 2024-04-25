@@ -71,11 +71,12 @@ TRACER :
 
 CLIENT :
 
-![Screenshot 2024-04-24 052846](https://github.com/nicknikesh/4.Execution_of_NetworkCommends/assets/145633284/4bc0f1d5-f9a2-4bf8-862d-2bfd7a02a98b)
+![Screenshot 2024-04-24 052846](https://github.com/nicknikesh/4.Execution_of_NetworkCommends/assets/145633284/2bb5e679-9915-4112-bc6d-e51485273227)
+
 
 SERVER :
 
-![Screenshot 2024-04-24 052835](https://github.com/nicknikesh/4.Execution_of_NetworkCommends/assets/145633284/bb14dcd4-201e-493e-915a-fa8cd1045dfd)
+![Screenshot 2024-04-24 052846](https://github.com/nicknikesh/4.Execution_of_NetworkCommends/assets/145633284/4bc0f1d5-f9a2-4bf8-862d-2bfd7a02a98b)
 
 ## Result
 Thus Execution of Network commands Performed 
