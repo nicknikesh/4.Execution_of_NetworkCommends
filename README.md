@@ -71,8 +71,7 @@ TRACER :
 
 CLIENT :
 
-![Screenshot 2024-04-24 052846](https://github.com/nicknikesh/4.Execution_of_NetworkCommends/assets/145633284/2bb5e679-9915-4112-bc6d-e51485273227)
-
+![Screenshot 2024-04-24 052835](https://github.com/nicknikesh/4.Execution_of_NetworkCommends/assets/145633284/c19ece21-c62a-48e8-92aa-147540c36c3d)
 
 SERVER :
 
